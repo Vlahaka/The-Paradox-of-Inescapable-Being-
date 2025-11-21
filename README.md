@@ -17,8 +17,8 @@
 ---
 ### License and Attribution
 
-**Author:** [Your Name or Alias]  
-**Copyright:** [Current Year] [Your Name or Alias]
+**Author:** Ionut Daniel Vlad  
+**Copyright:** 20th of November 2025, Ionut Daniel Vlad, The courier philosopher. 
 
 This work, *The Paradox of Inescapable Being*, is shared under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0).**
 
