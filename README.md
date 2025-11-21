@@ -1,6 +1,6 @@
-#The Paradox of Inescapable Being: A Philosophical Treatise
+# The Paradox of Inescapable Being: A Philosophical Treatise
 
-​This manuscript presents a new axiomatic system, Nilogism, which rigorously proves that Absolute Nothingness is logically impossible, thereby establishing the necessity of existence (Being) as the universe's foundational truth.
+​This manuscript presents a new axiomatic system, *Nilogism*, which rigorously proves that **Absolute Nothingness** is logically impossible, thereby establishing the necessity of existence (Being) as the universe's foundational truth.
 
 ​The book moves beyond the "cosmic fluke" narrative, demonstrating a philosophical hierarchy:
 > ​Nilogism: Proves the necessity of Being by showing that the concept of "nothing" is logically self-cancelling.
