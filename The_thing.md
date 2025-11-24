@@ -155,13 +155,19 @@ The distortion of the word **“purpose.”**
 
 At some point in life, you have probably wondered about the purpose of the world, or your own purpose. Yet when you try to define it, the meaning slips away.
 
-Inanimate objects are said to have purpose.
-Insects have purpose.
-Animals have purpose.
-Humans have purpose.
-Society has a purpose.
-Nations have purpose.
-It seems everything has a purpose.
+> Inanimate objects are said to have purpose.
+>
+> Insects have purpose.
+>
+> Animals have purpose.
+>
+> Humans have purpose.
+>
+> Society has a purpose.
+>
+> Nations have purpose.
+>
+> It seems everything has a purpose.
 
 But look closer: the synonyms that share meaning with “purpose” have become restricted. Words like goal, aim, target, scope, role, function, objective are now tied to specific contexts, while “purpose” has expanded to operate at all levels of existence.
 
@@ -173,11 +179,11 @@ This apathy makes the mind vulnerable. It becomes easier to surrender to the ide
 
 Now combine this with the endless cycle of modern work, leaving little time for self-reflection. The result is a population that drifts along, unexamined and unresistant. And into that vacuum, hard determinists insert their claim: we are just machines.
 
-Just to clarify: I am not suggesting that all determinists are hard determinists, nor that all hard determinists literally claim “we are programmed” or “we are biological machines.” 
+> Just to clarify: I am not suggesting that all determinists are hard determinists, nor that all hard determinists literally claim “we are programmed” or “we are biological machines.” 
 Strict determinists themselves do not always use the metaphor “we are machines.” But in public discourse, their ideas often get simplified into this language. My concern is with how these simplified forms shape cultural self-understanding.
 My focus is on how these metaphors seep into everyday language, where they begin to shape how people see themselves. 
 
-A solution?
+**A solution?**
 
 I will not claim to hold a ready-made solution to these issues.
 Nor am I looking for an individual or an event to blame, criticize, or judge, because there is nothing, and no one, to point at. The real issue lies in misrepresentation: simplified versions of facts, linguistic blur, and stretched meanings repeated until they replace clarity with confusion.
@@ -206,7 +212,7 @@ The natural conclusion is disappointment: “Perhaps there is something wrong wi
 And thus, society has gained a member who contributes reluctantly, who feels betrayed by the promises of education, and who quietly begins to believe in a form of restricted freedom. 
 This is the impact that meaning distortion and linguistic fuzziness have on the everyday person. 
 
-To be clear, I am not accusing teachers, parents, or society at large of intentional harm. These messages are usually given in good faith, passed down through generations. Nor am I claiming that language is the only reason people fall into self-disappointment. I know life circumstances, economics, and personal struggles all play their part. My point is that language, through its slow drift and distortion, is a factor, and it is the one that lies within the scope of this book. The problem is not malice, but meaning blurred over time, until education became equated with wealth and purpose with money. My aim is not to assign blame, but to reveal how this drift reshapes our self-worth and our understanding of freedom.
+> To be clear, I am not accusing teachers, parents, or society at large of intentional harm. These messages are usually given in good faith, passed down through generations. Nor am I claiming that language is the only reason people fall into self-disappointment. I know life circumstances, economics, and personal struggles all play their part. My point is that language, through its slow drift and distortion, is a factor, and it is the one that lies within the scope of this book. The problem is not malice, but meaning blurred over time, until education became equated with wealth and purpose with money. My aim is not to assign blame, but to reveal how this drift reshapes our self-worth and our understanding of freedom.
 
 ## *Chapter 2 - What makes me “me”?*
 
