@@ -1,7 +1,7 @@
 # The Paradox of Inescapable Being: A compatibilist take.
 
 
-just reat the_thing.md
+just read [the_thing.md]
 
 ---
 ### License and Attribution
