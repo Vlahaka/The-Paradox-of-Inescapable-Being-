@@ -968,8 +968,7 @@ So what gives me the right to step into that territory and claim knowledge for m
 By all external measures, I have no right.
 I have forgotten my place. And yet, I am here now. 
 I have seen the workings of reality that remain hidden from ordinary sight, and I cannot stop and I do not want to stop.
-Even if I am doomed to remain isolated within the delusion of my own mind, I still find myself shouting into the void of 8 billion people:
-“SEE ME.”
+Even if I am doomed to remain isolated within the delusion of my own mind, I still find myself shouting into the void of 8 billion people: “See me.”
 
 I do not fully understand this irrational desire to tell people in online debates,
 “You are free. You are free the moment you forget yourself.”
