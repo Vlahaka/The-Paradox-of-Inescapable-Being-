@@ -3,7 +3,7 @@
 I did not reason into an egotistical void of delusion. 
 There are three rules within which I develop nilogism:
 
-- Coherence: I must always remain within the main axiom "Nothing" is impossible therefore Existence is necessary.
+- Coherence: I must always remain within the main axiom, "Nothing" is impossible therefore Existence is necessary.
 
 - Empirical evidence: I must always acknowledge and describe why the necessary existence manifests as it does, as observed by the scientific community.
 
