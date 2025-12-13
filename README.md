@@ -11,7 +11,7 @@ There are three rules within which I develop nilogism:
 
 ## Feel free to disagree, agree, attack, accept, reject, argue against or for. You are welcomed to engage however you want. 
 
-The body of text can be read here: 
+# The body of text can be read here: 
 [![Read PDF](https://img.shields.io/badge/PDF-Read-red?logo=adobeacrobatreader&logoColor=white)](Nilogism%20-%20The%20necessary%20existence%20%281%29.pdf)
 
 ---
