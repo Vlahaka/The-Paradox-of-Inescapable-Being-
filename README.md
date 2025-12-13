@@ -7,7 +7,9 @@ There are three rules within which I develop nilogism:
 
 - Empirical evidence: I must always acknowledge and describe why the necessary existence manifests as it does, as observed by the scientific community.
 
-- Realistic applicability: I must always describe the behaviour of the everyday person. 
+- Realistic applicability: I must always describe the behaviour of the everyday person.
+
+## Feel free to disagree, agree, attack, accept, reject, argue against or for. You are welcomed to engage however you want. 
 
 The body of text can be read here: 
 [![Read PDF](https://img.shields.io/badge/PDF-Read-red?logo=adobeacrobatreader&logoColor=white)](Nilogism%20-%20The%20necessary%20existence%20%281%29.pdf)
