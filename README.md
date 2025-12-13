@@ -1,7 +1,7 @@
 # The Paradox of Inescapable Being: A compatibilist take.
 
 
-just read [the_thing.md]
+Main body of text can be read here: [![Read PDF](https://img.shields.io/badge/PDF-Read-red?logo=adobeacrobatreader&logoColor=white)](Nilogism%20-%20The%20necessary%20existence%20%281%29.pdf)
 
 ---
 ### License and Attribution
