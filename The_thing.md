@@ -950,5 +950,60 @@ In my view, for a cause to be a cause, it must initiate a transition from one st
 
 This is why causality cannot be reduced to inevitability.
 Determinism describes the mechanism of time itself: the fundamental difference between what was and what is, the transformation of distinction from before to after, and the unfolding of entropy as the measure of possibility. Thus the causal chain is the architecture of existence, not a script of inevitabilities.
-Therefore, it is irrelevant how we perceive ourselves or narrate our lives.
-The gears of determinism turn regardless, and through their turning, order emerges from distinction.
+Therefore, it is irrelevant how we perceive ourselves or narrate our lives, and the factual reality is that our actions shape our own environment. 
+
+## Chapter 10 - Application, Application… Application?
+
+Throughout this exploratory text, I have used the word “environment” countless times, but have I used it according to its accepted mainstream meaning?
+
+I claimed that something is not “nothing” because it is distinct from the environment. Yet, according to Wikipedia, the definition of environment is:
+> “Environment (surroundings of an organism or population) means what surrounds us. It may consist of living or non-living things. It includes physical, chemical, and other natural forces.”
+
+If this definition is applied to my usage of the word within the context of the text so far, it becomes clear that it makes no sense whatsoever.
+This means that I have fallen into the very behavior I so often criticize. I used the term “environment” with an assumed meaning known only to myself, while simultaneously expecting the reader to already understand what I meant by it.
+
+This is precisely what I mean when I say that fuzzy language affects our lives more than we care to admit.
+
+For this reason, many debates consist of people talking past one another, using the same lexicon, yet attaching different meanings and definitions to shared vocabulary. Disagreement then arises not from genuine opposition, but from confusion. It is not only important terms such as consciousness or free will that require shared definitions before a debate can be meaningful. Equally crucial are the most common words, the ones overlooked because of their apparent obviousness, such as “environment.”
+
+Before I expose my hidden assumption regarding “environment”, I must address one additional point. Philosophy is undeniably best known for redefining terms and words, allowing clarity to emerge where there was none before. However, in my view, it is equally important to recognize that redefining terms cannot serve merely as a justification for a prior premise. What is the benefit of inventing a telos for a claim if it does not reflect reality?
+Therefore, I will redefine “environment” in a way that follows naturally from necessary existence and ontological distinction, while also incorporating the mainstream definition. It is not sufficient for a philosophical system to be internally coherent, valid, and sound. It must also align with empirically established consensus.
+
+Now, in Nilogism:
+The environment is a phenomenological consequence arising from the relation between a cognitive system and existence, establishing the boundary between self and non-self. More precisely, this consequence consists of everything that is non-self, and this is what I refer to as the environment.
+
+To better illustrate what I mean by this, imagine a first-person video game. Everything within the player’s field of view is rendered and appears on the screen. However, this does not mean that what lies outside the field of view does not exist. The code for the entire game is already written and processed, but the graphics are rendered only when the player changes their perspective.
+In this sense, existence surrounds the player entirely, yet the player can access only a portion of it, namely, what appears within their perspective. This accessible portion is what I define as the environment.
+
+The environment cannot be ontological, because if we remove all forms of perception from existence, what remains? A rock is still a rock, even without a brain distinguishing it from the rest. Its existence is unaltered by the absence of perception.
+However, when perception separates this rock from its surroundings, that particular rock becomes part of the environment of a cognitive system. Nothing changes about the rock itself, but something does change about the perceiver. The rock now exists not only ontologically, but also teleologically. By being perceived, it is assigned a function.
+
+From this perspective, one might now ask: if the environment is our perception and evaluation of existence, what about family, friends, and acquaintances? If the environment is the non-self, how do multiple non-selves coexist and communicate?
+
+This is the natural implication, and the next logical question.
+
+Our parents, children, grandchildren, cousins, aunts, brothers, and sisters are all part of the non-self. A child is not their parent in precisely the same way that a parent is not their child. What occurs here, I would argue, is the operation of the principle of Projection.
+
+If the principle of Distinction is the manifestation of existence, then the principle of Projection is the manifestation of the self upon the non-self.
+Think of this as a zooming-in from necessary existence into the interior of a self.
+
+It is redundant to question the existence of the self, because it exists. It is me, it is you, and it is every human being on this planet, every human being who has existed and who will exist.
+
+Every human being is a self. A self is the entire ladder of consciousness combined with necessary existence at the bottom and free will at the top. The self is the localization of existence. Existence, as a fundamental necessity, is distinction and upon this distinction, ladders of consciousness evolve into free wills.
+For this reason, the self cannot perceive existence as a whole. If existence were a single wave, it would be perceived all at once. But we are distinct units, each perceiving only a portion of existence. Because we are distinct, our perception is also distinct. Therefore, the environment is relational to each self.
+And because the environment is a correlate of each individual self, we gain the ability to shape the environment according to our will, but not existence itself. This capacity to exert influence upon the environment is what I call the principle of Projection.
+
+When a self perceives a part of existence, that portion becomes the self’s environment. As such, the self can act upon its environment. It can recognize another self, and this recognition extends the environment to include that other self, and vice versa.
+Because another self becomes part of the environment, it can either be ignored or acted upon. When it is acted upon, this part of the environment, this other self, is no longer indifferent to us. This loss of indifference is the projection of the self. When the self projects itself onto the environment, it constitutes a form of internalization, or, in other words, a conceptual expansion of the within to encompass part of the non-self.
+In this way, a larger and more complex distinction is formed: one rooted in the ontological boundary of the necessary within, and extended by an added conceptual boundary imposed upon parts of the environment.
+This is why family members are often as important to us as ourselves, and sometimes even more so. We place them within the closest conceptual boundary, directly adjacent to our ontological boundary. They thus become a form of non-self whose absence would leave our ontological boundary exposed to an indifferent environment.
+
+This is why I said that I would save my own child from the burning building, rather than a scientist who has the potential to save the entire human race.
+
+Saving my child would neither be a choice nor an act of bravery. It would simply be the strongest deterministic impulse to protect my within from the indifferent environment. In that moment, I would not be exercising free will, I would be allowing my most primitive drive to take control of the self in order to protect what I have internalized as my own. In saving my child, I would, in effect, be saving myself.
+
+By contrast, if a soldier were to risk their life to save a colleague from an entirely different unit, someone they may have interacted with only a few times, this would constitute genuine bravery. In such a case, they would be protecting a distant conceptual boundary, one located close to the indifferent environment. Here, the deterministic impulse toward self-preservation is halted, and action is redirected toward saving someone largely unrelated to the self. In doing so, they exercise free will.
+
+And if, on their way to save that colleague, they were to notice another colleague, one more intimately connected to their ontological within, they would once again redirect their action from the more distant conceptual boundary to the closer one. They would allow impulse to take over, thereby exercising less free will.
+
+Now, imagine this mechanism applied across all human beings. From this, we can understand why morality begins with the universal and fundamental bedrock of preserving human life. Morality is simply the intersection of multiple environments, giving rise to laws and rights that preserve society and enable the scaffolding of knowledge, developed over thousands of years, through the instinctual projection of selves.
