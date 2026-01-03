@@ -332,13 +332,13 @@ This shows that the final viable layer is the ability to receive input.
 Yet is this truly irreducible? Let us test it.
 In order for the most basic life form to receive input, it must first exist as a body. To be corporeal means to be set apart from its environment, because without this difference, life blurs into the environment and becomes indistinguishable from nothingness, which is impossible.
 
-Therefore, the irreducible essence of awareness is distinction.
+**Therefore, the irreducible essence of awareness is distinction.**
 
 Consciousness is commonly defined as the subjective awareness of yourself and your environment, encompassing your thoughts, feelings, sensations, and memories.
 
-Remove memories, feelings, and thoughts, and what remains is awareness of the self.
+- Remove memories, feelings, and thoughts, and what remains is awareness of the self.
 
-Remove awareness of the self, and what remains is only awareness. At this point the concept has fundamentally changed.
+- Remove awareness of the self, and what remains is only awareness. At this point the concept has fundamentally changed.
 
 Consciousness has become indistinguishable from awareness. This lack of difference forces the concept into non-existence. 
 Hence the logical implication is that awareness of the self is the last viable layer. 
