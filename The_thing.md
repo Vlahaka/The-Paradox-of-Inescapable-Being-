@@ -37,26 +37,26 @@ I claim that: **“Nothing” is the absolute absence. There is no time, no entr
 
 Existence, by what we have so far perceived of it, seems to encapsulate the universe itself. Wherever we direct our gaze, even into regions that at first, present themselves as null, there is always something: particles, radiation, fluctuation, or at the very least the absence of something else. And so it is clear that the universe forbids true nothingness. Thus, the fundamental truth is revealed: existence is not contingent but a must.
 
-If “nothing” is impossible then existence cannot not be and therefore existence is necessary. 
+If “nothing” is impossible then existence cannot **not** be and therefore existence is necessary. 
 
 I expect disagreement and I welcome it.
 For only through challenge can an idea prove its strength:
 
-Someone might object: “But in mathematics, we have zero or the empty set, isn’t that true nothingness?”
+Someone might object: *“But in mathematics, we have zero or the empty set, isn’t that true nothingness?”*
 
 No. Zero and the empty set are formal symbols inside a mathematical system. The system itself, its rules, logic, and symbols, already exists. These are relative absences, defined in relation to something, not true nothingness.
 
-Another might argue: “But in programming, I can write an operation that does nothing.”
+Another might argue: *“But in programming, I can write an operation that does nothing.”*
 
 Again, no. To “do nothing” requires a machine executing code, a context of instructions, and the possibility of action. Even “null” is a state inside a program that runs on existing hardware.
 
-A physicist might claim: “But a vacuum is empty space.”
+A physicist might claim: *“But a vacuum is empty space.”*
 
 Even this is not “nothing”. A vacuum still contains radiation, fluctuations, quantum fields, or at the very least the geometry of spacetime itself.
 
-A philosopher might object that “the word itself creates the existence of nothingness, otherwise, why would the word “nothing” exist in our vocabulary at all?”
+A philosopher might object that *“the word itself creates the existence of nothingness, otherwise, why would the word “nothing” exist in our vocabulary at all?”*
 
-The answer is that “nothing” does not function as evidence of an actual state. It is not a placeholder for an attainable absolute absence, but a conceptual marker for the boundary of being. The word survives in language not to prove that nothingness is possible, but to delimit the territory of what exists. “Nothing” is the shadow cast away by the light of existence, the linguistic echo of impossibility.
+The answer is that “nothing” does not function as evidence of an actual state. It is not a placeholder for an attainable absolute absence, but a conceptual marker for the boundary of being. The word survives in language not to prove that nothingness is possible, but to delimit the territory of what exists conceptually or otherwise. “Nothing” is the shadow cast away by the light of existence, the linguistic echo of impossibility.
 
 All these examples share the same flaw: they rely on context. But true nothingness is devoid not only of matter or energy, but of context itself. No space, no time, no rules, no possibility of distinction, not even the potential for observation.
 
@@ -84,7 +84,8 @@ By understanding the necessity of existence, we can better appreciate the necess
 
 It would be natural to wonder who I am to preach to you! 
 
-Am I a professor, a scientist, or a renowned philosopher?
+*Am I a professor, a scientist, or a renowned philosopher?*
+
 No. I am human, just like you. Titles are labels and labels cannot prevent thought.
 
 And by thinking, I came to see that life in the 21st century has become so convoluted that we often lose track of what it means to live.
@@ -96,6 +97,7 @@ The modern target of success, wealth, is utopian for the honest worker. Technolo
 And while we chase more financial security, our cognitive strength mellows. 
 
 We spend less time asking: 
+
 > What is actually important?
 > 
 > How do we divide time between what is needed, and who needs us?
@@ -112,7 +114,7 @@ Various platforms (social networks, forums, media, even AI) take carefully const
 
 For example, on May 29th, 2025, Dr. Prof. Gaztañaga and his team published a study in Physical Review D offering new insights about black holes. The study concluded that gravitational collapse may not lead to a singularity, a point of infinite density,  as previously thought, possibly leading to a new perspective about the universe. 
 
-Yet across social networks, the headline became: “We live in a black hole” or “Our Universe may be in a black hole”. 
+Yet across social networks, the headline became: *“We live in a black hole” or “Our Universe may be in a black hole”*. 
 
 This can be dangerous, because what begins as simplification quickly mutates into misinformation. And misinformation reshapes the worldview of the everyday person. If someone believes “the universe is basically a black hole,” the unspoken conclusion is often: “Then we are not very important.”
 
@@ -145,7 +147,7 @@ Determinism began as a logical observation: every action has a cause. But from t
 
 Most people dismiss such statements at first, which is fair. Yet these metaphors slip into daily life under different guises, shaping thought in subtle ways.
 
-Take neuroscience, for example. Recently, experiments have shown brain activity milliseconds before a conscious thought arises. Hard determinists take this as proof: “The brain already decided, the thought was inevitable.”
+Take neuroscience, for example. Recently, experiments have shown brain activity milliseconds before a conscious thought arises. Hard determinists take this as proof: *“The brain already decided, the thought was inevitable.”*
 
 But the proper interpretation is simpler: the brain receives input, processes it, and only then translates it into the language of conscious thought. The activity is not predetermined. It is processing.
 
@@ -178,7 +180,8 @@ This apathy makes the mind vulnerable. It becomes easier to surrender to the ide
 
 Now combine this with the endless cycle of modern work, leaving little time for self-reflection. The result is a population that drifts along, unexamined and unresistant. And into that vacuum, hard determinists insert their claim: we are just machines.
 
-> Just to clarify: I am not suggesting that all determinists are hard determinists, nor that all hard determinists literally claim “we are programmed” or “we are biological machines.” 
+> Just to clarify: I am not suggesting that all determinists are hard determinists, nor that all hard determinists literally claim “we are programmed” or “we are biological machines.”
+
 Strict determinists themselves do not always use the metaphor “we are machines.” But in public discourse, their ideas often get simplified into this language. My concern is with how these simplified forms shape cultural self-understanding.
 My focus is on how these metaphors seep into everyday language, where they begin to shape how people see themselves. 
 
@@ -187,10 +190,11 @@ My focus is on how these metaphors seep into everyday language, where they begin
 I will not claim to hold a ready-made solution to these issues.
 Nor am I looking for an individual or an event to blame, criticize, or judge, because there is nothing, and no one, to point at. The real issue lies in misrepresentation: simplified versions of facts, linguistic blur, and stretched meanings repeated until they replace clarity with confusion.
 
-So when I say that society transforms the meaning of purpose into “restless pursuit of wealth,” I do not mean this happens through a conscious, deliberate conspiracy. Rather, it is the slow work of language itself. Over centuries, words shift, their edges blur and their meanings drift.
+So when I say that society transforms the meaning of purpose into *“restless pursuit of wealth”* I do not mean this happens through a conscious, deliberate conspiracy. Rather, it is the slow work of language itself. Over centuries, words shift, their edges blur and their meanings drift.
 
-Take “success”: originally, it simply meant “to follow after” or “to result.” Over time, through constant cultural reinforcement, it narrowed to mean financial achievement. 
-Or “purpose” once meant “that which is set before,” it has expanded and warped until it is almost synonymous with “life goals = wealth and status.”
+Take “success”: originally, it simply meant *“to follow after”* or *“to result.”* Over time, through constant cultural reinforcement, it narrowed to mean financial achievement. 
+
+Or “purpose” once meant *“that which is set before”* it has expanded and warped until it is almost synonymous with *“life goals = wealth and status.”*
 
 This slow, gradual shift in meaning has a direct impact today. Consider a classroom, where a child hears this phrase: “You must learn, otherwise you will not land a well-paid job.”
 
@@ -206,9 +210,10 @@ The economy is ever-changing and rarely favors the ordinary worker. The “well-
 
 And when that day never comes, the adult turns inward: “I did well in school. I have a job that pays relatively well compared to others. So where is the money?”
 
-The natural conclusion is disappointment: “Perhaps there is something wrong with me.”
+The natural conclusion is disappointment: *“Perhaps there is something wrong with me.”*
 
 And thus, society has gained a member who contributes reluctantly, who feels betrayed by the promises of education, and who quietly begins to believe in a form of restricted freedom. 
+
 This is the impact that meaning distortion and linguistic fuzziness have on the everyday person. 
 
 > To be clear, I am not accusing teachers, parents, or society at large of intentional harm. These messages are usually given in good faith, passed down through generations. Nor am I claiming that language is the only reason people fall into self-disappointment. I know life circumstances, economics, and personal struggles all play their part. My point is that language, through its slow drift and distortion, is a factor, and it is the one that lies within the scope of this book. The problem is not malice, but meaning blurred over time, until education became equated with wealth and purpose with money. My aim is not to assign blame, but to reveal how this drift reshapes our self-worth and our understanding of freedom.
@@ -217,36 +222,37 @@ This is the impact that meaning distortion and linguistic fuzziness have on the 
 
 As I mentioned earlier, I do not claim to solve a centuries-old issue embedded in language which reframes our understanding of ourselves according to external, socially accepted norms. But I do believe we can treat the symptoms of this problem by becoming more perceptive of how we assign meaning in our daily speech.
 
-This may sound like rhetorical dramatism, but it is possible. The way we communicate shapes how we understand ourselves. And here I am not speaking of biology, or identity in the superficial sense. I am speaking of what makes you “you”.
+This may sound like rhetorical dramatism, but it is possible. The way we communicate shapes how we understand ourselves. And here I am not speaking of biology, or identity in the superficial sense. I am speaking of what makes you **“you”**.
 
-To be more explicit, I turn to the famous cogito of Descartes: “I think, therefore I am.”
+To be more explicit, I turn to the famous cogito of Descartes: *“I think, therefore I am.”*
 
-Descartes is rightly considered one of the most influential thinkers of Western philosophy. His formula, “cogito ergo sum”, implies the existence of an “I” that does the thinking.
+Descartes is rightly considered one of the most influential thinkers of Western philosophy. His formula, *“cogito ergo sum”*, implies the existence of an **“I”** that does the thinking.
 
-He reasoned: what if a demon deceived his senses, manipulating him into believing in a world that was not objectively real? He doubted his environment, other people, even his own body. What remained was the irreducible act of doubting itself. If doubt exists, then the capacity to doubt must belong to something, the “I” itself.
+He reasoned: *what if a demon deceived his senses, manipulating him into believing in a world that was not objectively real? He doubted his environment, other people, even his own body. What remained was the irreducible act of doubting itself. If doubt exists, then the capacity to doubt must belong to something, the **“I”** itself.*
 
 This is precision in language at its best. From one clear sentence, Descartes arrived at an unshakable truth.
 
-I propose to go a step further. To analyze the very “I” that does the doubting. In philosophy, this “I” is called the self.
+I propose to go a step further. To analyze the very **“I”** that does the doubting. In philosophy, this **“I”** is called the **self**.
 
 Now, what is the best method to understand the self?
 Following Descartes, the answer is doubt. But here I suggest we change the angle.
 
-Descartes began by doubting the universe, other people, even his own body, and he arrived at the conclusion “I think, therefore I am.”
+Descartes began by doubting the universe, other people, even his own body, and he arrived at the conclusion *“I think, therefore I am.”*
 
 But I have already taken a different first step. I do not need to doubt existence itself, because I have already uncovered its irreducible ground: if “nothing” is impossible, then existence is necessary.
 
 This frees me to focus entirely on the existence of the self. Instead of doubting being, I can set being as the stage, and investigate what it means for something or someone to be.
 
-If I challenge myself to find the irreducible form of myself the first question that arises is simple: What am I?
+If I challenge myself to find the irreducible form of myself the first question that arises is simple: *What am I?*
 
 The answer seems to follow naturally: I am a human.
 
 So let us see what that means. 
 According to Wikipedia:
-“Humans (Homo sapiens) or modern humans belong to the biological family of great apes, characterized by hairlessness, bipedality, and high intelligence.”
 
-This mainstream definition seems satisfactory, but it introduces a new variable: “high intelligence.” This is the line science has drawn to differentiate humans from animals.
+> *“Humans (Homo sapiens) or modern humans belong to the biological family of great apes, characterized by hairlessness, bipedality, and high intelligence.”*
+
+This mainstream definition seems satisfactory, but it introduces a new variable: *“high intelligence.”* This is the line science has drawn to differentiate humans from animals.
 
 So now I have two irreducible facts:
 
@@ -272,14 +278,23 @@ That is roughly the stage we are at today with the human brain. We can describe 
 
 To explore the insides of the mind, we must rely on what has already been established as valid and sound by the official communities of science and philosophy.
 
-Awareness, according to the Oxford Languages dictionary, is “knowledge or perception of a situation or fact.”
-Wikipedia expands: “In philosophy and psychology, awareness is the perception or knowledge of something. The concept is often synonymous with consciousness; however, one can be aware of something without being explicitly conscious of it (e.g., blindsight).”
+Awareness, according to the Oxford Languages dictionary, is 
+> *“knowledge or perception of a situation or fact.”*
 
-Sentience, according to Google, is “the capacity to have subjective experiences and feel sensations, particularly pain and pleasure.”
-Wikipedia adds: “Sentience is the ability to experience feelings and sensations. It may not necessarily imply higher cognitive functions such as awareness, reasoning, or complex thought processes.”
+Wikipedia expands:
+> *“In philosophy and psychology, awareness is the perception or knowledge of something. The concept is often synonymous with consciousness; however, one can be aware of something without being explicitly conscious of it (e.g., blindsight).”*
 
-Consciousness, according to Google, is “your subjective awareness of yourself and your environment, encompassing your thoughts, feelings, sensations, and memories.”
-Wikipedia defines it: “Consciousness, at its simplest, is awareness of a state or object, either internal to oneself or in one’s external environment.”
+Sentience, according to Google, is 
+> *“the capacity to have subjective experiences and feel sensations, particularly pain and pleasure.”*
+
+Wikipedia adds:
+> *“Sentience is the ability to experience feelings and sensations. It may not necessarily imply higher cognitive functions such as awareness, reasoning, or complex thought processes.”*
+
+Consciousness, according to Google, is 
+> *“your subjective awareness of yourself and your environment, encompassing your thoughts, feelings, sensations, and memories.”*
+
+Wikipedia defines it: 
+> *“Consciousness, at its simplest, is awareness of a state or object, either internal to oneself or in one’s external environment.”*
 
 And if we add to these definitions a sense of personal identity, beliefs, language, knowledge, memories and values, we begin to form a picture of what the self might be.
 
