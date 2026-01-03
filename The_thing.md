@@ -33,10 +33,9 @@ The moment it is spoken, it becomes something, a sound, a sign, a mark in though
 
 What we call “nothing” is only a linguistic phantom, an ephemeral trace that survives in language but never in reality. It is not presence but the impossibility of presence, sustained by thought alone.
 
-I claim that:
-“Nothing” is the absolute absence. There is no time, no entropy, no motion, no awareness, and not even the ability of self-observation.
+I claim that: **“Nothing” is the absolute absence. There is no time, no entropy, no motion, no awareness, and not even the ability of self-observation.**
 
-Existence, by our own empirical evidence, encompasses the universe itself. Wherever we direct our gaze, even into regions that at first present themselves as null, there is always something: particles, radiation, fluctuation, or at the very least the absence of something else. And so it is clear that the universe forbids true nothingness. Thus, the fundamental truth is revealed: existence is not contingent but a must.
+Existence, by what we have so far perceived of it, seems to encapsulate the universe itself. Wherever we direct our gaze, even into regions that at first, present themselves as null, there is always something: particles, radiation, fluctuation, or at the very least the absence of something else. And so it is clear that the universe forbids true nothingness. Thus, the fundamental truth is revealed: existence is not contingent but a must.
 
 If “nothing” is impossible then existence cannot not be and therefore existence is necessary. 
 
