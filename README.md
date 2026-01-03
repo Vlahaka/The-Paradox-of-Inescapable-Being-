@@ -14,6 +14,8 @@ There are three rules within which I develop nilogism:
 # The body of text can be read here: 
 [![Read PDF](https://img.shields.io/badge/PDF-Read-red?logo=adobeacrobatreader&logoColor=white)](Nilogism%20-%20The%20necessary%20existence%20%281%29.pdf)
 
+##Or press on the "The_thing.md"
+
 ---
 ### License and Attribution
 
