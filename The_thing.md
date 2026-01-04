@@ -747,10 +747,10 @@ Or imagine the destitute man waiting by an ATM, asking strangers for spare coins
 
 In such moments, we see that free will is not simply a matter of “choosing.” It is the point at which consciousness resists the chain of causation. It is where we impose ourselves against the most obvious outcome, an outcome that would serve only our own needs, and instead redirect choice toward the well-being of another.
 
-It becomes clear, then, that free will is the capacity to resist the most obvious outcome, and this resistance shines brightest where self-interest collides with the good of others.
+It becomes clear, then, that free will is the capacity to resist the most obvious outcome, and this resistance shines brightest where self-interest collides with the well-being of others, or with a conceptual internal value. 
 
 In a deterministic system, the “most obvious outcome” is the predicted effect rising from causes.
-​Free Will is the evolved cognitive function that allows the self-aware agent to override that prediction and impose a self-determined cause against the default, evolutionarily-determined reaction.
+​Free Will is the evolved cognitive function that allows the self-aware agent to override that prediction and impose a new vector against the default, evolutionarily determined outcome. 
 
 The journey from the impossibility of “nothing” has shown that existence is a necessity, and our individual self is defined by its distinction from all else. This distinction is the bedrock upon which choice arises. And choice, refined by consciousness, culminates in free will: the conscious, effortful capacity to resist the most obvious outcome in favor of an action that honors the broader system of which we are a distinct part. 
 Our daily struggle, then, is not against an illusory fate, but against our own impulses. 
