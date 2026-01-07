@@ -1057,7 +1057,7 @@ With this in mind, I can now clearly distinguish between **a reaction, a need, a
 
 It also becomes evident that the term "will" is the appropriate term for describing deterministic behavior.
 
-From my perspective, a **reaction** and a **need** are, counterintuitively, two opposite concepts.
+From my perspective, a **reaction** and a **need** are, counterintuitively, two opposite terms.
 
 A **reaction** is a response to external stimuli originating from the environment. If you recall my example of *“Mary feeling cold”* from Chapter 7, I argued that *“the feeling”* of cold is a reaction, defined as the cognitive process of turning input into preservation. As such, the input originates externally, from the environment. Ergo, it is the environment that drives us to protect ourselves from its harsh conditions, and we cannot resist this drive, as it is **essential** to immediate survival and persistence through time.
 
