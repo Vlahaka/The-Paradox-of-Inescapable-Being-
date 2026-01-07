@@ -1021,3 +1021,120 @@ By contrast, if a soldier were to risk their life to save a colleague from an en
 And if, on their way to save that colleague, they were to notice another colleague, one more intimately connected to their ontological within, they would once again redirect their action from the more distant conceptual boundary to the closer one. They would allow impulse to take over, thereby exercising less free will.
 
 Now, imagine this mechanism applied across all human beings. From this, we can understand why morality begins with the universal and fundamental bedrock of preserving human life. Morality is simply the intersection of multiple environments, giving rise to laws and rights that preserve society and enable the scaffolding of knowledge, developed over thousands of years, through the instinctual projection of selves.
+
+
+## Chapter 11 - Last men or Resistance 
+
+Since I finished writing Chapter 7, I began releasing the key concepts of Nilogism into the wild, into the deep philosophical jungles of mighty Reddit itself. At that time, I still lacked the precise lexicon needed to properly convey what I believed to be easily understood. 
+To borrow Zarathustra’s words, “my mouth was not for their ears”, not because they could not understand, but because my mouth itself was not yet ready.
+
+Nevertheless, about a month ago, I was fortunate to enter into an ongoing correspondence with a mathematician who resonated with the idea that free will is resistance to the most predictable outcome. This exchange opened my eyes to my own protected use of the term environment, and from this realization, Chapter 10 came into existence.
+
+Thus Chapter 10 marks the first time Nilogism stepped into the desert of the real and returned accompanied by a thinker, one whose disagreement rendered Nilogism more precise and more grounded in reality.
+
+Moving on, a few days ago I received a rather emotional response to that same definition of free will, this time under a different post.
+
+The response criticized my work on the grounds that I had contributed nothing novel to the philosophical debate. 
+While I did not see a substantive counterargument, I did observe an attempt to dismantle the nilogist account of free will through semantic manipulation of my own vocabulary. I sensed the emotional charge when it was implied that, if the term “free will” were replaced with “will”, nothing would change, and that, therefore, I had failed at philosophy.
+
+I will be honest: a certain anger took hold of me. Yet, despite the impulse to defend my work against what I perceived as an unfair attack, I chose instead to simply ask what had sparked such an emotional response to my words. In return, I was accused of being the emotional one in this exchange.
+
+For those unfamiliar with Reddit, especially the debate-oriented subforums, it is a ruthless platform, though also one where some participants do engage in good faith, while others do not.
+
+I am an amator (not amateur) of philosophical debate, and I do spend time within these spaces.
+
+This encounter led me to realize something important. If, for this person, the word “free” did not sit comfortably next to “will”, then it became clear to me that I must first understand what will itself is: how it functions, and why it matters. From there, I quickly arrived at the conclusion that will is necessarily a part of a hierarchy.
+
+Under this particular circumstance, I will not appeal to mainstream definitions found in dictionaries, as we have now left mainstream terrain. And, of course, when discussing will, we must turn to none other than the philosopher most closely associated with it.
+
+Arthur Schopenhauer was a legendary German philosopher, best known for his 1818 work The World as Will and Representation (expanded in 1844), in which he characterizes the phenomenal world as the manifestation of a blind and irrational noumenal will.
+
+He famously wrote:
+*“A man can do what he wills, but he cannot will what he wills.”*
+
+Standing on the scaffolding provided by this giant of philosophy, I came to reason that the "will" is not the container in which the process of choice unfolds, but rather a phenomenological manifestation arising from more primitive drives.
+With this in mind, I can now clearly distinguish between **a reaction, a need, an impulse, and a want.**
+
+It also becomes evident that will is the appropriate term for describing deterministic behavior.
+
+From my perspective, a reaction and a need are, counterintuitively, two opposite concepts.
+
+A reaction is a response to external stimuli originating from the environment. If you recall my example of “Mary feeling cold” from Chapter 7, I argued that “the feeling” of cold is a reaction, defined as the cognitive process of turning input into preservation. As such, the input originates externally, from the environment. Ergo, it is the environment that drives us to protect ourselves from its harsh conditions, and we cannot resist this drive, as it is essential to immediate survival and persistence through time.
+
+A need, by contrast, is a response to internal stimuli. Hunger, thirst, and even the drive for reproduction are likewise cognitive processes of turning input into preservation, but here, the input originates from within. These are alarms relayed by our organs to the brain in the form of hunger and thirst. A need, too, is essential to immediate survival and long-term persistence.
+
+At this point, it is worth noting that while the need for reproduction is present across all forms of life, albeit through different mechanisms, humans are not unique in decoupling sexual pleasure from reproduction. Some advanced animals also engage in sexual activity for pleasure or as a social behavior, not exclusively for reproductive purposes.
+
+Reactions and needs together form the first rung of the default behavioral hierarchy. They represent drives that threaten the very boundary of the life form if left unaddressed, which is precisely why Schopenhauer’s observation holds true.
+
+However, the second rung is where complexity emerges, in the form of inessentiality. Here, we encounter the impulse.
+
+Before defining impulse, we must first recognize that when we engage in the act of choosing, we are effectively calculating the allocation of three resources: effort, external material currency, and time.
+By external material currency, I do not necessarily mean money, but rather anything materially or conceptually valuable that one possesses and can exchange.
+
+An impulse arises when the environment introduces a cause that nudges the self toward action. Unlike reactions and needs, an impulse is not essential to immediate survival, nor does ignoring it threaten the well-being of the self.
+
+For example: I may feel the urge to eat an entire cake because it looks extremely delicious, but I might settle for just a slice.
+
+The initial urge to eat the whole cake is an impulse. I can prevent it from being enacted precisely because it is not imperative to my survival. However, an impulse becomes increasingly difficult to resist when its cost is low.
+If I am already sitting at the table where the cake is served, I may eat it simply because I do not need to expend additional effort, time, or material resources, such as going to the shop, spending money, or interrupting my current activity.
+
+Under this same rung, beyond the reach of impulses, a cognitive process begins, one that is always in motion, like a mathematical engine that never turns off. 
+I will not presume the arrogance of placing it firmly within either the unconscious or the conscious. That distinction belongs to other fields. 
+
+However, I am confident in locating this engine at the intersection of the two.
+
+Based on the allocation of the three resources, this engine operates more deeply within the unconscious as costs decrease, manifesting as impulses, and it crosses into the conscious domain as costs become more substantial.
+
+On the conscious side, I would argue that the will begins to reveal itself, more precisely, in the space between competing possibilities of action.
+
+Let us now analyze a simple statement:
+“I want to go out for a meal.”
+
+This is clearly a want, not yet a choice. It is a desire, but, in my view, not will.
+
+This desire first requires the prediction of possible paths that could be followed to achieve it.
+
+Prediction, however, is only possible after introspective investigation into what caused the desire to arise. To clarify, I do not believe that we always identify the causes of our actions. In fact, by default, we usually do not, as everyday life largely revolves around impulse management. In this example, however, going out for a meal is not an impulse, and for such more complex actions, we often do identify their causes.
+
+I stated that will becomes evident in the conscious realm because it requires the ability to identify both the cause of a desire and its predicted cost.
+
+“I need to get ready, dress up, and drive there.”
+Here, cognition has calculated the predicted effort, based on previous experiences stored in memory.
+
+“I am a bit tight on money, so if I go, I might not order what I really want.”
+Here, cognition has calculated the predicted currency cost of the endeavor.
+
+“I am working tomorrow, so I should not spend too much time out.”
+Here, cognition has calculated the cost of time.
+
+At this point, all resources have been allocated, and the outcome feels tangible.
+
+“But I also feel tired after today.”
+Something different occurs here: a new variable emerges. This is the result of estimating the overall cost of fulfilling the initial desire. A new possibility appears, one not caused directly by the original desire, but by the visualization of resource allocation required to satisfy it. This new possibility represents zero cost.
+
+At this moment, the collapse between two possible outcomes becomes imminent.
+
+“I haven’t been out for a very long time; I deserve a little treat.”
+This actuation, in my view, is the will. It is the drive to rise above impulse and maintain the initial vector despite the most obvious alternative paths. Will is the process that allows us to care for ourselves, to acknowledge our own hardships, and to act in accordance with our long-term self-benefit, by allocating resources toward consolidating the self, even when cheaper paths with less satisfaction are available.
+
+“It’s not worth it. If it were Friday, maybe.”
+In this case, the costs are judged to be too great to bear, and additional conditions, such as fatigue, lead to the conservation of resources rather than their expenditure.
+
+Now, having wrestled with what the will is, I will recapitulate what is will and free will by conjuring a hypothetical scenario:
+
+The Nilogist Afternoon:
+
+​Reaction (Environment → Self): You touch a hot mug. Your hand jerks back. You didn't "think"—the environment forced a change in your state.
+
+​Need (Within → Brain): An hour later, your stomach growls. The "internal alarm" goes off. You must eat to maintain your boundary.
+
+​Impulse (Low-cost Nudge): You see a bowl of candy. It’s right there (zero effort, zero currency). You reach for it without a second thought.
+
+​Want (Desire + Calculation): You think, "I want a real dinner." The "Mathematical Engine" starts. You calculate the Effort (cooking), Currency (buying groceries), and Time.
+
+​Choice (Wavefront Collapse): Based on your resources, the engine settles on "Pasta." This is the most efficient output of your current state.
+
+​Will (Executing the Vector): You are tired, but you stand up and cook anyway. You are "paying" the effort to achieve the higher satisfaction. You are following the "Best Deal."
+
+​Free Will (The Override): Just as you sit to eat, a neighbor knocks, distressed and needing help. The "obvious" path is to eat your hot meal. But you resist that deterministic impulse and set the plate aside to help them. That is the only moment in the whole afternoon where you were "Free.”
