@@ -1080,11 +1080,9 @@ The initial urge to eat the whole cake is an impulse. I can prevent it from bein
 If I am already sitting at the table where the cake is served, I may eat it simply because I do not need to expend additional **effort**, **time**, or **material resources**, such as going to the shop, spending money, or interrupting my current activity.
 
 Under this same rung, beyond the reach of impulses, a cognitive process begins, one that is always in motion, like a "mathematical engine" that never turns off. 
-I will not presume the arrogance of placing it firmly within either the unconscious or the conscious. That distinction belongs to other fields. 
+I am confident in locating this engine at the intersection of the subconscious and conscious. 
 
-However, I am confident in locating this engine at the intersection of the two.
-
-Based on the allocation of the three resources, this engine operates more deeply within the unconscious as costs decrease, manifesting as impulses, and it crosses into the conscious domain as costs become more substantial.
+Based on the allocation of the three resources, this engine operates more deeply within the subconscious as costs decrease, manifesting as impulses, and it crosses into the conscious domain as costs become more substantial.
 
 On the conscious side, I would argue that the "will" begins to reveal itself, more precisely, in the space between competing possibilities of action.
 
