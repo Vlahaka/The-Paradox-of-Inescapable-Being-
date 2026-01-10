@@ -462,6 +462,12 @@ Then humans are distinct inherently.
 
 Matter itself is built upon distinction. Particles do not dissolve into an undifferentiated whole. Each exists as a bounded unit. From this foundation, larger structures emerge such as atoms, molecules, cells, bodies and each preserving distinction while layering complexity. Humans, too, are distinct, not merely because they are made of distinct particles, but because the very possibility of their existence depends on matter’s irreducible separateness. Thus, our awareness of being distinct is not an illusion, it is the echo of the universe’s own architecture.
 
+*Let us be clear and honest: I am not suggesting that we are composed of atoms in the same static manner that a heap of sand is composed of grains. Since this is a philosophical treatise, this is my own method of visualizing how we are composed, shaped, and held in our present form by matter through the Principle of Distinction.*
+
+*I do not wish to contradict the empirical data that points to DNA, the role of electromagnetic fields, or the constant flux of electrons between atoms. I am neither a physicist nor a biologist; therefore, I cannot claim to explain in technical detail what science conveys with such precision and accuracy. However, I do claim to understand the teleology of these scientific findings. It is from this understanding, of what matter does and what it forms, that I have derived the Principle of Distinction.*
+
+*I am not proposing a static “pile”, but a specific organization of energy. While atoms are the “stuff” of the heap, it is the persistent pattern of their interaction that constitutes the Distinction. My focus is not on the “grains” themselves, but on the sovereignty of the boundary they create when they act in unison. I have done my best to remain faithful to the empirical foundation of reality while keeping this treatise firmly philosophical, focusing on the boundary where matter becomes a Self.*
+
 Now imagine a small human forming in the mother’s belly.
 When the brain has developed enough to activate, what is the first thing it does?
 
