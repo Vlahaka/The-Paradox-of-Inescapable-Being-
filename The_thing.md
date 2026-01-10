@@ -842,7 +842,7 @@ How do we explain the fact that the vast majority of human beings on this planet
 
 The answer follows naturally from the framework we have built so far.
 
-If free will is the evolved cognitive capacity to overcome the most obvious deterministic impulse, then morality is this capacity extended outward, from the individual self to the surrounding community, or in other words, morality is the collective manifestation of free will. 
+If free will is the evolved cognitive capacity to overcome the most predictable impulse, then morality is this capacity extended outward, from the individual self to the surrounding community, or in other words, morality is the collective manifestation of free will. 
 
 Human beings value life because each person values their own life.
 But consciousness (the ability to reflect on oneself) and free will (the ability to transcend selfish immediacy) combine to produce something extraordinary:
@@ -879,7 +879,7 @@ They understand that the cashier might be held responsible later, might face tro
 By returning the excess change, the customer shows that they value the well-being of another person, even a stranger, enough to correct an error that no one else would ever see.
 
 This is morality in action.
-This is free will overcoming determinism.
+This is free will overcoming initial causality. And yes, Free Will is also caused. 
 
 Of course, this situation can be analyzed and interpreted in countless ways.
 For example, a professional philosopher, cultivated in the works of legendary thinkers such as Friedrich Nietzsche, might push back and argue that the customer did not truly act with the cashier’s well-being in mind, but rather from a subtler form of self-interest. In this view, returning the extra money is not an expression of altruistic free will at all, but a way to satisfy an internal desire to feel noble, to reaffirm a moral self-image, or to uphold values absorbed from society since childhood.
@@ -953,7 +953,6 @@ Thus, causality is not merely a description of a physical law, as physics and ma
 Causality is, in my view, is the architecture of our perceived reality.
 But by itself, this architecture is insufficient to account for the existence of free will.
 
-As Gödel demonstrated through his incompleteness theorems, no system can fully account for structures that transcend its own boundaries using only the rules internal to that system.
 Likewise, determinism, being the rule-based structure governing finite distinctions, cannot fully explain consciousness or the free will that emerges from it, because these arise at a level of complexity that surpasses the explanatory power of simple cause-and-effect chains. To be even clearer:
 determinism gives rise to complexity, and at sufficient depth, complexity develops the capacity to resist the very determinism that produced it.
 
