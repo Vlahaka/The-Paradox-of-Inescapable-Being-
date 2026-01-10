@@ -495,23 +495,23 @@ To begin, we must realize that what we take for granted always carries a hidden 
 
 Cognition, after all, is not a gift exclusive to humans. It is an ability of the brain, yes, but also a spectrum of life itself. Even the simplest cell endures across time as a separate entity, distinct from the countless others around it. This primal distinction, this self-versus-world boundary, is the seed of cognition.
 
-Google defines cognition as:
-“The mental process of thinking, knowing, and understanding, encompassing activities like perceiving, learning, remembering, judging, and problem-solving.”
+**Google defines cognition as:**
+*“The mental process of thinking, knowing, and understanding, encompassing activities like perceiving, learning, remembering, judging, and problem-solving.”*
 
-This definition does capture the essence: when a thought arises, an entire ecosystem of processes unfold in sync and harmony. But the inevitable question still rises: what produces thought itself?
+This definition does capture the essence: when a thought arises, an entire ecosystem of processes unfold in sync and harmony. But the inevitable question still rises: **what produces thought itself?**
 
 Here is a small thought experiment:
-Have you ever tried, with full effort, to think of something that does not arise from memory, past experience, or even from the present moment?
+*Have you ever tried, with full effort, to think of something that does not arise from memory, past experience, or even from the present moment?*
 
 The instant you accept this challenge, the paradox emerges: your attempt has already been nudged into being. The very act of trying to generate an uncaused thought becomes its own cause.
 
 So, if we observe carefully, the cause of thoughts is always linked to external events as they are perceived. This means that thought generation is neither random nor spontaneous. Even in the midst of work, when the mind drifts away, the drift is never without anchor: it is grounded in memory. Even imagination, which feels like pure invention, is fueled by past events: a book read, a film watched, a game played. And when we picture hypothetical scenarios, they too are stitched together from the faces and voices of real people in our lives. Wherever we turn, the source of thought is found in lived reality.
 
-From this I am ready to make a new claim: thoughts are produced by the mind when an external input presses against the self, is perceived, shaped by language, stored in memory. And furthermore, thought generation itself is an ability of the brain.
+From this I am ready to make a new claim: thoughts are produced by the mind when an external input presses against the self, is perceived, shaped by language, stored in memory. And furthermore, **thought generation itself is an ability of the brain.**
 
 And of course, let us test this claim, for as I have shown before, all claims must be attached to arguments.
 
-Language, or better said speech, is a knowledge we start gaining since early childhood, a skill we then refine across time to communicate with others. It is obviously an ability, one that can be strengthened through use or weakened through neglect.
+Language, or better said speech, is a what we start gaining since early childhood, a skill we then refine across time to communicate with others. It is obviously an ability, one that can be strengthened through use or weakened through neglect.
 
 Memory is likewise an ability: the capacity to store information across time, never perfectly, but well enough to be recalled and reshaped later.
 
