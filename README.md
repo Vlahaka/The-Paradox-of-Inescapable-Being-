@@ -20,13 +20,14 @@ There are three rules within which I develop nilogism:
 ### For reaching out to me, please feel free to engage me through the Nilogism reddit community:
 
 https://www.reddit.com/r/Nilogism/
-
+---
 ### Citable OSF:
 10.17605/OSF.IO/DTMQU
 
 ### Citable Zenodo:
 https://doi.org/10.5281/zenodo.18199146
 
+Both DOI represent the same version of Nilogism, but archived on both platforms for ease of access. 
 ---
 ### License and Attribution
 
