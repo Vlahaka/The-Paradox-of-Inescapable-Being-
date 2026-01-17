@@ -14,9 +14,7 @@ There are three rules within which I develop nilogism:
 # The body of text can be read here: 
 
 ## Press on the [![Read Nilogism](https://img.shields.io/badge/Read%20Nilogism-blue)](https://github.com/Vlahaka/The-Inescapable-Paradox-of-Inescapable-Being-/blob/main/The_thing.md)
-
-## Or press here for the PDF (but this is updated manually, from time to time) [![Read PDF](https://img.shields.io/badge/PDF-Read-red?logo=adobeacrobatreader&logoColor=white)](Nilogism%20-%20The%20necessary%20existence%20%281%29.pdf)
-
+---
 ### For reaching out to me, please feel free to engage me through the Nilogism reddit community:
 
 https://www.reddit.com/r/Nilogism/
