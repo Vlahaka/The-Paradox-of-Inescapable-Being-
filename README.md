@@ -19,7 +19,7 @@ There are three rules within which I develop nilogism:
 
 # For reaching out to me, please feel free to engage me through the Nilogism reddit community:
 
-reddit.com/r/Nilogism
+https://www.reddit.com/r/Nilogism/
 
 ---
 ### License and Attribution
