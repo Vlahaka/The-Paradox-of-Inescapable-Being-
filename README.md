@@ -17,6 +17,10 @@ There are three rules within which I develop nilogism:
 
 ## Or press here for the PDF (but this is updated manually, from time to time) [![Read PDF](https://img.shields.io/badge/PDF-Read-red?logo=adobeacrobatreader&logoColor=white)](Nilogism%20-%20The%20necessary%20existence%20%281%29.pdf)
 
+# For reaching out to me, please feel free to engage me through the Nilogism reddit community:
+
+https://www.reddit.com/r/t5_et56jv/s/B94ioxfmiH
+
 ---
 ### License and Attribution
 
