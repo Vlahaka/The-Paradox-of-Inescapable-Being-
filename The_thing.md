@@ -1225,3 +1225,96 @@ And from there, it became evident that effort alone is insufficient as a metric.
 
 Consider something as mundane as waking up at five in the morning. If you lack the discipline to rise immediately when the alarm sounds (as many of us do, myself included) you may find yourself internally shouting at yourself to get out of bed.
 That inner struggle is not poetic metaphor. It is the will calculating effort, time, and cost. 
+
+I would also like to acknowledge my mathematician correspondent of the past two months, whose work has helped me draw a clearer distinction between impulses and desires.
+I strongly encourage interested readers to explore his work, which he generously makes freely available on his YouTube channel, **Delosophy**.
+
+https://youtube.com/@delosophy?si=nvTKEzYMlMAS_T4k
+
+Dr. D, as he refers to himself, presents a mathematical approach to decision-making through what he terms the **Satisfaction Formula**: a formally derived framework for describing intention.
+I will refrain from elaborating further, as part of its value lies in the process of discovery itself. For those willing to engage with it directly, the insight it offers is substantial.
+
+## Chapter 12 - Run… P-Zombies are here!
+
+It is commonly held that we attribute our own likeness to machines and computers. Indeed, even from the preceding sections of this text, one might reasonably infer the claim that the self is a biological machine, continuously calculating and predicting.
+
+This description is accurate within my framework. However, I argue that the direction of the analogy is often misunderstood.
+
+We are not like machines; rather, machines are like us.
+
+Consider what came first. Humanity first sought to understand itself and the structure of the surrounding world. Two thousand years ago, there existed no conception of autonomous mechanical or synthetic devices operating within parameters designed by humans.
+
+The very term *"machine"* entered the English language only in the 1540s, deriving from the Greek mēchanē (Doric machana), meaning “device,” “tool,” or “contrivance.” The concept itself is therefore derivative, not fundamental.
+
+As our understanding of ourselves advanced, we identified functional components: brain, heart, circulatory system, nervous system, pulmonary system, and skin as a protective boundary. Observing these structures across living organisms, we gradually comprehended the architecture of life.
+
+When machines and later computers were constructed, their architecture was modeled on this understanding. Although the materials differ from biological ones, the structural correspondence is unmistakable.
+
+An engine or processor functions as a central hub for receiving input and producing output. Electrical circuits, fuel lines,hydraulic systems, pumps, and conduits mirror biological circulatory systems. Protective casings serve the same role as skin, such as shielding internal structure from hostile conditions.
+Machines, therefore, are not the measure by which we understand ourselves. We have created machines in our own “image”. The resemblance runs in one direction only, as in “machines are like us”. 
+
+We solve engineering problems by "copying" the solutions evolution already perfected.
+A tool is an extension of the hand, a machine is an extension of the body and a computer is an extension of the mind. Each step isn't a new category of existence, but a more complex "contrivance" of ourselves.
+
+Therefore when we say "the mind is a computer," we accidentally shrink our definition of the mind to fit what a computer can do: logic, math, storage.
+
+Keeping this in mind, we turn to David John Chalmers. He is an Australian philosopher and cognitive scientist, specializing in the philosophy of mind and language, and a professor of philosophy and neural science at New York University, as well as co-director of NYU’s Center for Mind, Brain, and Consciousness.
+
+Dr. Chalmers has introduced one of the most challenging and influential thought experiments in contemporary philosophy of mind.
+A philosophical zombie (p-zombie) is a hypothetical being that is physically and functionally identical to a conscious human, yet completely lacking subjective conscious experience: no inner life, no qualia.
+Chalmers argues that if such beings are conceivable, then consciousness cannot be purely physical, suggesting that something non-physical must be added, thereby supporting a form of dualism.
+
+Zombies, on this account, behave exactly like humans: they speak about pain, perceive colors, discuss consciousness, and react appropriately, yet without actually feeling pain, redness, or awareness.
+
+I accept this challenge, but I reject its conclusion.
+
+I argue not only that such p-zombie states are disturbingly real, but that they do not, in fact, possess the capacity to behave as fully conscious humans.
+
+To see this, we need not imagine exotic hypotheticals. 
+We can observe an ordinary and well-documented phenomenon: the consumption of alcohol in substantial amounts.
+
+Consider a specific threshold, not full unconsciousness, not sleep, but the point at which alcohol consumption disrupts the formation of new memories without shutting down wakeful cognition. The individual remains awake, responsive, verbal, and mobile, yet no longer registers new experiences into memory.
+
+At this point, behavior becomes manifestly unconstrained by ethical rules, social etiquette, and long-term values. Why? Because the memory rung is impaired. Cognition loses reliable access to internalized values, preferences, and social frameworks. 
+
+The individual can still react to stimuli and produce language, but these reactions are no longer anchored in identity.
+In effect, the person forgets themselves.
+
+As a result, behavior regresses toward more primitive patterns: territoriality, aggression, impulsivity, and simplification. 
+
+Introspection is severely diminished, not because consciousness has vanished, but because access to memory, the stabilizing substrate of identity, is compromised.
+Such individuals may still recall factual information such as their name or relationships, yet the value of those relationships is inaccessible. 
+They no longer properly register how their actions affect others.
+
+This state demonstrates something crucial: behavior that appears “functionally human” rapidly degrades when consciousness loses access to memory and identity. The result is not a perfect behavioral duplicate of a conscious agent, but a fragmented and diminished one.
+
+Therefore, Dr. Chalmers, there is no need to conceive of a human being entirely devoid of self-experience. Such states already exist, and they demonstrate that consciousness does not require anything “extra” beyond its structural and functional organization.
+
+Of course, Professor Chalmers might double down on his position and redirect me back to his original premises. He might argue that my blackout example involves a physical impairment, whereas his philosophical zombie is a metaphysical thought experiment. 
+
+He could say: *“I am not describing a brain damaged by alcohol; I am describing a brain that functions perfectly but simply lacks the ‘feeling’ of being.”*
+
+I grant Professor Chalmers this distinction. He is correct that my example crosses into empirical territory, and in that sense it commits a category shift relative to his purely metaphysical construction.
+
+However, I would argue that this category error does not originate in my response, but in the very method by which the thought experiment is generated.
+
+While the conclusion may follow from Chalmers’ premises, this does not entail that the premises themselves are epistemically legitimate when applied to a holistic account of consciousness. The conceivability of a system that is functionally identical in every respect, yet entirely devoid of subjective experience, is assumed rather than demonstrated.
+
+To illustrate the problem: I could just as easily conceive of a car with no engine that nevertheless drives at 100 km/h. If challenged on empirical grounds, I could respond that the car is identical in every relevant way to a normal car, because I have stipulated it to be so. 
+The conceivability does not arise from understanding the system, but from redefining it.
+
+In this way, the hypothesis becomes self-sealing. Any attempt to ground it empirically is dismissed as a category error, while the conceivability of the scenario is preserved by definition alone. 
+The thought experiment thus begs the very question it claims to answer.
+
+If consciousness is treated as detachable from the functional structures that generate identity, memory, valuation, and self-reference, then its “absence” tells us nothing. It simply becomes a label for an imagined subtraction, not an explanatory insight.
+
+Under such conditions, interaction with the hypothesis is inevitably distorted, not because empirical reasoning is misplaced, but because the hypothesis itself is insulated from meaningful engagement. 
+
+Moreover, if perfect functional identity is the primary defense of the philosophical zombie, then the zombie is, by definition, incoherent. The term “perfect” already entails optimal access to all the constituent parts and relations from which the functional identity emerges in the first place.
+
+It is not logically consistent to claim two systems exhibit identical behavioral patterns while asserting that one of them lacks a governing component required for those behaviors to manifest. 
+The moment such a component is absent, or inaccessible for this matter, the systems are no longer functionally identical.
+
+Functional identity is not a surface resemblance of outputs, but rather the continuous availability of internal structures that generate, regulate, and constrain those respective outputs. Remove access to any one of those structures, and the identity collapses.
+
+Thus, a being that behaves in every way like a conscious human, yet allegedly lacks the very conditions that enable such behavior, is not a coherent counterexample to physicalism, but rather a contradiction produced by speculation.
