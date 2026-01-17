@@ -21,6 +21,12 @@ There are three rules within which I develop nilogism:
 
 https://www.reddit.com/r/Nilogism/
 
+### Citable OSF:
+10.17605/OSF.IO/DTMQU
+
+### Citable Zenodo:
+https://doi.org/10.5281/zenodo.18199146
+
 ---
 ### License and Attribution
 
