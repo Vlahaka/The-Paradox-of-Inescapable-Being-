@@ -672,7 +672,7 @@ Without boundaries, all would dissolve into sameness.
 
 I believe this is the right moment to recapitulate the hierarchy uncovered so far in our exploration of the self.
 
-It begins with the most fundamental act, distinction. From distinction arises awareness, which, when carried forward in time, gives rise to cognition. Upon cognition memory builds. From memory flows language, which compresses identity across time into symbols. With language and memory intertwined, the mind acquires the ability of thought generation. From thought emerges choice, the ability to navigate between distinctions. Out of this layered structure arises sentience, the ability to have feelings and emotions. And finally, at the highest rung, consciousness develops which is, in its irreducible form, the subjective first-person experience.
+It begins with the most fundamental act, distinction. From distinction arises awareness, which, when carried forward in time, gives rise to cognition. Upon cognition memory builds. From memory flows language, which compresses identity across time into symbols. With language and memory intertwined, the mind acquires the ability of thought generation. From thought emerges choice, the ability to navigate between distinctions. Out of this layered structure arises sentience, the ability to have feelings and emotions. And finally, at the highest rung, consciousness develops which is, in its irreducible form, the subjective experience of introspection.
 
 Remove even one of these abilities, and consciousness collapses. The tip of the ladder loses its essence the moment any rung beneath it disappears.
 
