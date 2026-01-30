@@ -1318,3 +1318,104 @@ The moment such a component is absent, or inaccessible for this matter, the syst
 Functional identity is not a surface resemblance of outputs, but rather the continuous availability of internal structures that generate, regulate, and constrain those respective outputs. Remove access to any one of those structures, and the identity collapses.
 
 Thus, a being that behaves in every way like a conscious human, yet allegedly lacks the very conditions that enable such behavior, is not a coherent counterexample to physicalism, but rather a contradiction produced by speculation.
+
+Philosophical zombies are merely metaphysical thought experiments, and while we may never arrive at an answer capable of fully satisfying Dr. Chalmers, it is important to recognize that a philosopher should not, and ought not, rely on a single specialization or field when engaging in the search for wisdom. Philosophy spans an entire spectrum of schools of thought, and restricting inquiry to one domain risks flattening philosophical investigation into the internal facts of that specialization, thereby losing contact with reality itself.
+
+Likewise, a philosopher ought not confine themselves to a single school of thought and raise a flag of territorial ownership, drawing intellectual swords against all others.
+
+When these two “ought nots” are violated simultaneously, the result can be rigorous thinking directed toward a misguided teleology, as I believe is the case with Robert Sapolsky’s book “Determined”.
+
+In “Determined: A Science of Life Without Free Will” (2023), Robert Sapolsky, globally renowned biologist, argues that human choices are fully determined by genetics, experience, and environment, and that the common usage of the term free will is therefore mistaken. The book further explores the ethical consequences for justice and punishment within a framework of human behavior that explicitly dispenses with free will.
+
+I am not convinced that a world without free will would be better than the one we currently inhabit.
+
+To illustrate what such a world would entail, consider the following passage from Sapolsky:
+
+“That there can be no such thing as blame, and that punishment as retribution is indefensible—sure, keep dangerous people from damaging others, but do so as straightforwardly and non-judgmentally as keeping a car with faulty brakes off the road.”
+Determined: A Science of Life Without Free Will (2023)
+
+It is crucial to recognize that justice systems of today, do not operate by simply assigning blame. Rather, they are founded on the principle of innocence until proven guilty.
+
+This means that even when an individual is restrained from society, they are not automatically deemed guilty or morally condemned. In a court of law, lawyers and prosecutors present evidence, mitigating circumstances, contextual factors, medical or psychological considerations, interrogate witnesses, and examine intent, in order to determine whether an individual experienced a biological failure, acted in self-defense, or deliberately intended the harmful outcome.
+
+In the quoted passage, Sapolsky proposes the elimination of blame and retributive punishment altogether, advocating instead for the “straightforward” and “non-judgmental” restraint of dangerous individuals.
+
+While this may initially appear as a humanitarian appeal, it conceals a deeply troubling assumption.
+
+First, how is one to determine that a person is “dangerous” in a “straightforwardly and non-judgmentally” manner?
+
+How do we distinguish between an individual who acted with malice and one who acted in self-defense?
+
+How do we differentiate between stealing bread to survive and committing a robbery, in a “straightforwardly and non-judgmentally” way?
+
+How do we determine whether an accusation itself is grounded in truth or fabricated, again, without judgment?
+
+If we follow the logic of this position consistently, we are led toward a system in which individuals are restrained not on the basis of guilt, intent, or responsibility, but merely on accusation or risk assessment. From my perspective, this describes a profoundly terrifying world.
+
+Without the concepts of blame and guilt, the system would begin to resemble something closer to this:
+
+“We have analyzed your brain and life history and determined that you are a high-risk unit. Please step into the holding cell.”
+
+Daniel C. Dennett warns against precisely this trajectory in “Freedom Evolves” (2003):
+
+“There is no more potent source of anxiety about free will than the image of the physical sciences engulfing our every deed, good or bad, in the acid broth of causal explanation, nibbling away at the soul until there is nothing left to praise or blame, to honor, respect, or love. Or so it seems to many people. And so they try to erect one barrier or another, some absolutist doctrine designed to keep these corrosive ideas at bay. This is a doomed strategy, a relic from the last millennium.”
+
+While Dr. Sapolsky argues against free will by appealing to biology and framing choice as an illusion, I will now move in the opposite direction. Drawing on a line of reasoning strongly influenced by Daniel Dennett, I will argue that choice is not only coherent but necessary.
+
+The question “Could I have done otherwise?” is, as Dennett would describe it, a “skyhook”.
+
+It is a purely metaphysical construction, engineered to admit only a single permissible answer, one that conveniently favors the proponent of the hypothetical. Its purpose is not inquiry but constraint.
+
+The question is designed to force the answer “No,” and to function as a deductive weapon in debates over autonomy by collapsing the causal chain into a single rigid thread linking prior circumstances directly to the actuation of a physical future.
+
+This hypothesis was never intended as an exploratory tool for understanding agency. Rather, it serves as a mechanism of closure, one that forecloses discussion by denying a cognitive system’s capacity to model alternative outcomes.
+
+The question “Could I have done otherwise?” refers to the Principle of Alternative Possibilities (PAP), which claims that an agent is morally responsible for an action only if they could have chosen a different course.
+
+Harry Frankfurt famously challenged PAP in 1969, arguing that moral responsibility can persist even when alternative possibilities are absent, for example: in cases where an agent’s action is constrained, yet aligns fully with their own desires.
+
+Nevertheless, the original formulation of the thought experiment offers no new lens through which to examine how freedom might be nested within determinism. Because it was designed to manipulate the terms of engagement, it must itself be reformulated if it is to permit genuine investigation.
+
+If we imagine rewinding events to precisely the same circumstances, the same internal state, the same external conditions, the same utterance, and grant no additional knowledge of the future, then it is indeed plausible that the same decision would occur.
+
+However, such an experiment is impossible. We cannot access, isolate, or reproduce the totality of conditions present at the moment of choice. For this reason, the Principle of Alternative Possibilities is empirically ungroundable and philosophically sterile, serving no practical purpose beyond forcing a terminal “win” in debate.
+
+A more productive reformulation of the question is therefore: “Was my choice inevitable?”
+
+While semantically similar, this version introduces a crucial new variable, inevitability, which allows empirical and explanatory inquiry to engage meaningfully with the problem.
+
+Inevitability arises from a specific form of causal determinism known as nomological determinism, the view that the past and present fix the future strictly through the immutable laws of nature. 
+
+As Peter van Inwagen defines it:
+“Determinism is the thesis that there is at any instant exactly one physically possible future.”
+(Van Inwagen, 1983, p. 3)
+
+I fully accept nomological determinism, but only within the context of a universe entirely devoid of life.
+
+Physics has shown that all events in the universe can, in principle, be traced back to the Big Bang approximately 13.8 billion years ago, and it can model several possible ultimate fates of the universe. This framework applies cleanly to inanimate matter: objects governed by motion, inertia, and force; topics I will not elaborate on here, as I am not a physicist.
+
+However, nomological determinism cannot account with the same precision for events that intersect with cognitively enabled forms of life.
+
+Dennett makes this distinction explicit in “Freedom Evolves”:
+
+“First, many thinkers assume that determinism implies inevitability. It doesn’t. Second, many think it is obvious that indeterminism—the denial of determinism—would give us agents some freedom, some maneuverability, some elbow room, that we just couldn’t have in a deterministic universe. It wouldn’t. Third, it is commonly supposed that in a deterministic world, there are no real options, only apparent options.”
+
+Dennett’s separation of determinism from inevitability is grounded in his evolutionary account of cognition. Through natural selection (trial and error) life has evolved increasingly sophisticated perceptual and cognitive systems.
+
+These systems allow organisms to register environmental features and avoid harm: from microbes responding to chemical gradients, to humans who can see a rock flying toward them and, within a fraction of a second, simulate a future in which they are injured—and duck.
+
+It is precisely this capacity to evaluate prior causes and conditions through introspection that enables cognitive systems to simulate, model, and predict alternatives.
+
+When an agent encounters a “fork in the road,” the choice between paths arises from a plurality of causes: genetic inheritance, upbringing, environmental conditioning, and situational context. These causes interact, generating variables that themselves function as causes within their own spheres of influence.
+
+Each new circumstance therefore introduces new variables, which, when reflected upon, produce novel models of possible futures. Consequently, no choice is strictly inevitable.
+
+Inevitability becomes evitable, in the moment a causal chain intersects with a cognitive system capable of self-reflection and counterfactual modeling. Choice then actuates upon the perceived possibility that either maximizes, or, at times, deliberately rejects self-benefit.
+
+Consider the following illustration:
+
+A rock is on a collision course with a tree. It is inevitable that the rock will strike the tree.
+
+Now imagine the same rock on a collision course with your head. The trajectory of the rock is equally inevitable. However, if you see the rock approaching, you will immediately simulate a future in which it injures you; and you will duck. If you do not see the rock, the resulting harm is inevitable, just as it is for the tree.
+
+Finally, consider this: even with full knowledge of the outcome, you retain the capacity to allow the rock to strike you. You might do so for various reasons, for example to obtain medical leave. In this sense, you could have done otherwise: you could have chosen not to duck, had you so willed.
