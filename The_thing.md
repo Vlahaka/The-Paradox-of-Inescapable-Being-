@@ -1419,3 +1419,42 @@ A rock is on a collision course with a tree. It is inevitable that the rock will
 Now imagine the same rock on a collision course with your head. The trajectory of the rock is equally inevitable. However, if you see the rock approaching, you will immediately simulate a future in which it injures you; and you will duck. If you do not see the rock, the resulting harm is inevitable, just as it is for the tree.
 
 Finally, consider this: even with full knowledge of the outcome, you retain the capacity to allow the rock to strike you. You might do so for various reasons, for example to obtain medical leave. In this sense, you could have done otherwise: you could have chosen not to duck, had you so willed.
+
+In the closing of this chapter, I will present to you yet another of my own thought experiments:
+
+**A short story inspired by Robert Sapolsky’s “Determined:A Science of Life Without Free Will”**
+
+The alarm clock blares, startling Dave from sleep, as it does every morning, except Sundays, when he finally has a day off.
+
+With one smooth motion, procedurally ingrained by years of repetition, he shuts off the alarm. His body initiates the exit from bed before any enthusiasm arrives.
+
+He is tired, not physically, but mentally. Tired of watching himself enact the same habits, the same workday, the same bland 3-in-1 coffee every morning. More tired still when he notices he is already moving toward the kitchen, about to pour the very drink he despises.
+
+The smell of coffee cues a childhood memory. His mother, eventually yielding to his insistence, letting him taste hers once. He remembers the bitterness, the immediate dislike. Standing now with the mug in his hand, he wonders when that aversion was overwritten, how repetition succeeded where preference failed.
+
+He peels open the cigarette pack one-handed, extracts one with his teeth, the motion precise enough to resemble sleight of hand, and steps outside to smoke his morning into place.
+
+On the porch, coffee cooling in his hand and cigarette burning down between his fingers, Dave noticed a police cruiser stopped outside his neighbor’s house. Two officers stood at the door. The first knock was measured. 
+The second louder. On the third, the door opened, and Dave could hear clearly.
+
+“Officer Jake Cully, and my colleague Dean Hephner. Police Department,” the officer announced, his voice practiced and unyielding. “We are here to speak with Mr. Sean Polskay. Is he home?”
+
+“Yes, this is him,” Polskay replied, his voice restrained, uncertain. “What is this about?”
+
+“Sir,” the second officer said, tone flat and precise, “yesterday, between the hours of fourteen hundred and fourteen thirty, did you experience anger toward your supervisor, Mr. Dudley Fischer?” He paused briefly. “I will remind you that, based on your behavioral history, you are currently classified as a potential risk. Any attempt at deception will elevate that classification to high risk and result in immediate detainment.”
+
+“How could I lie,” Polskay answered, irritation leaking through his composure, “when my brain has already selected my response before I am aware of it?” He swallowed. “According to my record, I have never acted violently toward anyone. My risk status should have been downgraded three years ago.”
+
+“Please answer the question, Mr. Polskay,” Officer Cully said now, his voice rising. “Did you, or did you not, become angry at your boss?”
+
+“If I did,” Polskay said quickly, “then it was unavoidable. My amygdala developed this way due to prenatal exposure; my mother drank a glass of wine during her seventh month. This was established by the Brain Analysis Directorate.” His hands trembled as he produced a folded document. “I have the certificate. I cannot help it.”
+
+The officers exchanged a brief glance.
+“In that case,” Cully replied, “the certificate is irrelevant. While your condition may explain the response, it does not negate the risk. Unpredictability, regardless of origin, constitutes a threat to public stability.” He stepped forward. “You are hereby restrained non-judgmentally and will be placed in protective holding for the foreseeable future.”
+
+They moved quickly. Efficiently. Polskay barely had time to protest before he was forced into the back of the cruiser. The door shut. The car pulled away.
+
+Dave stood frozen, coffee untouched, cigarette extinguished at last. He felt strangely relieved that he had stepped outside when he did, as though chance itself had granted him a small exemption.
+
+“Damn,” he muttered.
+
